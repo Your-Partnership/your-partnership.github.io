@@ -1,7 +1,7 @@
 # Your Partnership - Supporting unique partnerships
 ## Website is currently being built
 
-Your Parnership GbR
+Your Partnership GbR
 Bahnhofsstr. 11
 55116 Mainz
 
